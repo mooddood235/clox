@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qumah\\Desktop\\clox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEB22B-DA81-458C-A6F2-60E4278AEC1C}|clox.vcxproj|C:\\Users\\qumah\\Desktop\\clox\\clox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ECEB22B-DA81-458C-A6F2-60E4278AEC1C}|clox.vcxproj|solutionrelative:clox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clox.cpp",
+              "DocumentMoniker": "C:\\Users\\qumah\\Desktop\\clox\\clox.cpp",
+              "RelativeDocumentMoniker": "clox.cpp",
+              "ToolTip": "C:\\Users\\qumah\\Desktop\\clox\\clox.cpp",
+              "RelativeToolTip": "clox.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T22:25:46.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
