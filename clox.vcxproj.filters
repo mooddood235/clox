@@ -27,6 +27,9 @@
     <ClCompile Include="src\debug.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\value.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\common.h">

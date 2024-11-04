@@ -131,6 +131,7 @@
     <ClCompile Include="src\clox.c" />
     <ClCompile Include="src\debug.c" />
     <ClCompile Include="src\memory.c" />
+    <ClCompile Include="src\value.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\chunk.h" />
