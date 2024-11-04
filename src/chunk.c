@@ -10,7 +10,7 @@ void initChunk(Chunk* chunk){
 	initValueArray(&chunk->constants);
 }
 
-void writeChunk(Chunk* chunk, uint8_t byte){
+void writeChunk(Chunk* chunk, uint8_t byte, int line){
 	if (chunk->capacity < chunk->count + 1) {
 		int oldCapacity = chunk->capacity;
 		chunk->capacity = GROW_CAPACITY(oldCapacity);
