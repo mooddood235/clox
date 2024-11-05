@@ -3,3 +3,4 @@ C:\Users\qumah\Desktop\clox\src\clox.c;C:\Users\qumah\Desktop\clox\clox\x64\Rele
 C:\Users\qumah\Desktop\clox\src\debug.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\debug.obj
 C:\Users\qumah\Desktop\clox\src\memory.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\memory.obj
 C:\Users\qumah\Desktop\clox\src\value.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\value.obj
+C:\Users\qumah\Desktop\clox\src\vm.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\vm.obj
