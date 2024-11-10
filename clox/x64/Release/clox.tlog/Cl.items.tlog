@@ -1,6 +1,8 @@
 C:\Users\qumah\Desktop\clox\src\chunk.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\chunk.obj
 C:\Users\qumah\Desktop\clox\src\clox.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\clox.obj
+C:\Users\qumah\Desktop\clox\src\compiler.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\compiler.obj
 C:\Users\qumah\Desktop\clox\src\debug.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\debug.obj
 C:\Users\qumah\Desktop\clox\src\memory.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\memory.obj
+C:\Users\qumah\Desktop\clox\src\scanner.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\scanner.obj
 C:\Users\qumah\Desktop\clox\src\value.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\value.obj
 C:\Users\qumah\Desktop\clox\src\vm.c;C:\Users\qumah\Desktop\clox\clox\x64\Release\vm.obj
