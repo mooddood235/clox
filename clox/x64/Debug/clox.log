@@ -1,0 +1,7 @@
+﻿  chunk.c
+  clox.c
+  debug.c
+  memory.c
+  value.c
+  Generating Code...
+  clox.vcxproj -> C:\Users\qumah\Desktop\clox\x64\Debug\clox.exe
