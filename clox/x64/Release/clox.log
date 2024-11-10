@@ -1,7 +1,10 @@
 ﻿  clox.c
+C:\Users\qumah\Desktop\clox\src\clox.c(19,13): warning C4133: 'function': incompatible types - from 'char [1024]' to 'Chunk *'
+C:\Users\qumah\Desktop\clox\src\clox.c(40,19): warning C4129: '.': unrecognized character escape sequence
+C:\Users\qumah\Desktop\clox\src\clox.c(50,37): warning C4133: 'function': incompatible types - from 'char *' to 'Chunk *'
   Generating code
-  1 of 23 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
+  16 of 19 functions (84.2%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   clox.vcxproj -> C:\Users\qumah\Desktop\clox\x64\Release\clox.exe
