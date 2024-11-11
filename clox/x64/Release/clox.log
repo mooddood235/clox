@@ -1,7 +1,7 @@
 ﻿  scanner.c
   Generating code
-  10 of 20 functions (50.0%) were compiled, the rest were copied from previous compilation.
+  7 of 22 functions (31.8%) were compiled, the rest were copied from previous compilation.
     2 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   clox.vcxproj -> C:\Users\qumah\Desktop\clox\x64\Release\clox.exe
