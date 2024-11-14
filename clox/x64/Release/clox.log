@@ -1,7 +1,15 @@
-﻿  scanner.c
+﻿  chunk.c
+  clox.c
+  compiler.c
+C:\Users\qumah\Desktop\clox\src\clox.c(40,19): warning C4129: '.': unrecognized character escape sequence
+  debug.c
+  memory.c
+  scanner.c
+  value.c
+  vm.c
   Generating code
-  3 of 30 functions (10.0%) were compiled, the rest were copied from previous compilation.
+  8 of 65 functions (12.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    7 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   clox.vcxproj -> C:\Users\qumah\Desktop\clox\x64\Release\clox.exe
