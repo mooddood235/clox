@@ -8,6 +8,8 @@
 
 VM vm;
 
+static Value peek(int distance);
+
 static void resetStack() {
 	vm.stackTop = vm.stack;
 }
