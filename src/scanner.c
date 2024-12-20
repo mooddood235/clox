@@ -183,7 +183,7 @@ Token scanToken(){
 		case '<':
 			return makeToken(match('=') ? TOKEN_LESS_EQUAL : TOKEN_LESS);
 		case '>':
-			return makeToken(match('=' ? TOKEN_GREATER_EQUAL : TOKEN_GREATER));
+			return makeToken(match('=') ? TOKEN_GREATER_EQUAL : TOKEN_GREATER);
 		case '"': return string();
 	}
 
